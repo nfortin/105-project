@@ -45,6 +45,49 @@
 	}
 
 
+	/**** Nicole F advice****/
+
+	.nicolef-advice {
+		background: #f3eabf;
+		padding: 10px;
+	}
+
+	.nicolef-advice h1 {
+		font-family: 'Raleway', sans-serif;
+		font-size: 48px;
+		color: #645e8e;
+		text-align: center;
+		letter-spacing: 2px;
+	}
+
+	.nicolef-advice h4 {
+		font-family: 'Raleway', sans-serif;
+		font-size: 30px;
+		color: #94d8a6;
+		text-align: center;
+		letter-spacing: 2px;
+	}
+
+	.nicolef-advice .advice p {
+		font-family: 'Raleway', sans-serif;
+		font-size: 18px;
+		color: 	#645e8e;
+		text-align: justify;
+	}
+
+	.nicolef-advice footer {
+		font-family: 'Raleway', sans-serif;
+		font-size: 18px;
+		color: 	#94d8a6;
+		text-align: center;
+	}
+
+	.nicolef-advice a{
+	  	color: #5680e9;
+	    font-family: 'Raleway', sans-serif;
+	  	text-decoration: none;
+			padding: 20px;
+		}
 
 
 
@@ -10455,5 +10498,5 @@ body.nancys-advice {
 .rcubo-advice h4 {
   color: #00056B;
   font-weight: bold;
-  font-size: 36px;	
+  font-size: 36px;
 }
